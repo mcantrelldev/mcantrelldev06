@@ -1,0 +1,42 @@
+/* Styling in the body */
+body {
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  background-color: lightgrey;
+}
+
+/* Styling for the banner */
+#fixed-div {
+  width: 100%;
+  height: 75px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  z-index: 100;
+}
+
+/* Styling for text on the banner */
+#fixed-text {
+  width: 100%;
+  text-align: center; 
+  width: 100%;
+  color: white;
+  font-size: 50px;
+}
+
+/* Header styling */
+header {
+  position: relative;
+  top: 40px;
+  font-size: 30px;
+	
+}
+
+/* Footer styling */
+footer {
+  position: relative;
+  top: 500px;
+	
+}
